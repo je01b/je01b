@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**je01b/je01b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm  je01b (Jack B) and I'm currently a sixth form student in the UK. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Studies
+#### Current Studies:
+Currently I'm studying:
+
+ - Btec Nationals Level 3 Foundational Diploma in Computing
+ - Btec Nationals Level 3 Foundational Diploma in Business
+ - A-Level Mathematics
+
+I will be applying to University to start in Sepember 2022, studying Computer Science.
+
+## Programming History
+
+Currently, I have only coded things either to build my skills or for work as part of my Computing course.
+
+The programming languages that I have used are:
+
+ - Python
+ - HTML & CSS
