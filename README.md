@@ -7,9 +7,9 @@ I'm  je01b (Jack B) and I'm currently a sixth form student in the UK.
 #### Current Studies:
 Currently I'm studying:
 
- - Btec Nationals Level 3 Foundational Diploma in Computing
- - Btec Nationals Level 3 Foundational Diploma in Business
- - A-Level Mathematics
+ - Btec National Level 3 Foundational Diploma in [Computing](https://qualifications.pearson.com/en/qualifications/btec-nationals/computing-2016.html)
+ - Btec National Level 3 Foundational Diploma in [Business](https://qualifications.pearson.com/en/qualifications/btec-nationals/business-2016.html)
+ - OCR A-Level [Mathematics](https://www.ocr.org.uk/qualifications/as-and-a-level/mathematics-a-h230-h240-from-2017/) 
 
 I will be applying to University to start in Sepember 2022, studying Computer Science.
 
