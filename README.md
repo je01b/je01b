@@ -1,4 +1,4 @@
-## Hi 👋, [I'm Jack B (je01b)](https://je01b.vercel.app/)
+## Hi 👋, [I'm Jack B (je01b)](https://ww.jack-b.me)
 
 ### I'm currently a University student in the UK.
 
@@ -33,7 +33,7 @@
 <a href="https://linkedin.com/in/jack-b-9745221b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jack-b-9745221b3" height="30" width="40" /></a>  
 </p>
 
-Email me at: [jebailey04@gmail.com](mailto:jebailey04@gmail.com) <br>
+Email me at: [jack@jack-b.me](mailto:jack@jack-b.com) <br>
 Send me a Discord Message: je01b#0754
 
 ## Programming History
