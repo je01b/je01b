@@ -1,4 +1,4 @@
-## Hi 👋, [I'm Jack B (je01b)](https://ww.jack-b.me)
+## Hi 👋, [I'm Jack B (je01b)](https://www.jack-b.me)
 
 ### I'm currently a University student in the UK.
 
