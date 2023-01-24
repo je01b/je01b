@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=je01b&label=Profile%20views&color=0e75b6&style=flat" alt="je01b" /> </p>
 
 ![je01b's GitHub stats](https://github-readme-stats-je01b.vercel.app/api?username=je01b&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent)
-![je01b's wakatime stats](https://github-readme-stats-je01b.vercel.app/api/wakatime?username=je01b&theme=transparent)
+![je01b's wakatime stats](https://github-readme-stats-je01b.vercel.app/api/wakatime?username=je01b&theme=transparent&layout=compact)
 ## I'm currently studying:
 
 - BSc Computer Science with Business (Year 1) at [Aston University](https://www.aston.ac.uk/)
