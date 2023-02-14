@@ -5,7 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=je01b&label=Profile%20views&color=0e75b6&style=flat" alt="je01b" /> </p>
 
 ![je01b's GitHub stats](https://github-readme-stats-je01b.vercel.app/api?username=je01b&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent)
-![je01b's wakatime stats](https://github-readme-stats-je01b.vercel.app/api/wakatime?username=je01b&theme=transparent&layout=compact&hide=ini,git config,apache config, scss)
+<a href="https://wakatime.com/@je01b" target="_blank" rel="noreferrer noopener"> <img
+                    src="https://github-readme-stats-je01b.vercel.app/api/wakatime?username=je01b&layout=compact&hide=ini,git config,apache config, scss"
+                    alt="My Wakatime Stats" width="400px"></a>
 
 ## I'm currently studying:
 
