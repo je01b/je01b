@@ -2,10 +2,14 @@
 
 ### I'm currently a University student in the UK.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=je01b&label=Profile%20views&color=0e75b6&style=flat" alt="je01b" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=je01b&label=Profile%20views&color=0e75b6&style=flat" alt="je01b" /> 
+</p>
 
-![je01b's GitHub stats](https://github-readme-stats-je01b.vercel.app/api?username=je01b&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent)
-<img src="https://github-readme-stats-je01b.vercel.app/api/wakatime?username=je01b&layout=compact&hide=ini,git config,apache config, scss" alt="My Wakatime Stats" width="400px" />
+<p align="left">
+    <img src="https://github-readme-stats-je01b.vercel.app/api?username=je01b&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent" alt="My GitHub Stats" />
+    <img src="https://github-readme-stats-je01b.vercel.app/api/wakatime?username=je01b&theme=transparent&layout=compact&hide=ini,git config,apache config, scss" alt="My Wakatime Stats" />
+</p>
 
 ## I'm currently studying:
 
