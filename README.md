@@ -8,7 +8,7 @@
 
 <p align="left">
     <img src="https://github-readme-stats-je01b.vercel.app/api?username=je01b&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent" alt="My GitHub Stats" />
-    <img src="https://github-readme-stats-je01b.vercel.app/api/wakatime?username=je01b&theme=transparent&layout=compact&hide=ini,git_config,apache+config,scss" alt="My Wakatime Stats" />
+    <img src="https://github-readme-stats-je01b.vercel.app/api/wakatime?username=je01b&theme=transparent&layout=compact&hide=ini,git+config,apache+config,scss" alt="My Wakatime Stats" />
 </p>
 
 ## I'm currently studying:
