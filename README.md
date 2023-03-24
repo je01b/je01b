@@ -36,6 +36,8 @@ Send me a Discord Message: **je01b#0754**
 
 Currently, I have only coded to either build my skills or as part of my degree, with the exception of [www.jack-b.me](https://www.jack-b.me)
 
+See my coding history on [Wakatime](https://wakatime.com/@je01b)
+
 #### I have knowledge in the following languages and frameworks:
 
 <p> 
