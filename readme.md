@@ -21,8 +21,8 @@
 
 <h2>Connect with me:</h2>
 <p>  
-    <a href="https://twitter.com/je01b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="je01b" height="30" width="40" /></a>  
-    <a href="https://linkedin.com/in/jack-b-9745221b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jack-b-9745221b3" height="30" width="40" /></a>  
+    <a href="https://twitter.com/je01b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="je01b" height="30" width="40" /></a>  
+    <a href="https://linkedin.com/in/jack-b-9745221b3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jack-b-9745221b3" height="30" width="40" /></a>  
     <br><br>
     Email me at: <a href="mailto:jack@jack-b.me">jack@jack-b.me</a>
     <br>
@@ -42,8 +42,8 @@ See my coding history on <a href="https://wakatime.com/@je01b"> Wakatime </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" /> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL Logo" /> </a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP Logo" /> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
@@ -51,12 +51,12 @@ See my coding history on <a href="https://wakatime.com/@je01b"> Wakatime </a>
 <h4>Tools/Platforms I have used/I'm familiar with:</h4
 
 <p>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40" height="40" /> </a>
-<a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> </a>
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/> </a>
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" width="40" height="40" /> </a>
-<a href="https://discord.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40" height="40" /> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40" height="40" alt="VS Code Logo" /> </a>
+<a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="40" height="40" alt="PhPStorm Logo" /> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub Logo" /> </a>
+<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"  /> </a>
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" width="40" height="40" alt="Notion Logo" /> </a>
+<a href="https://discord.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40" height="40" alt="Discord Logo" /> </a>
 </p>
 
 <h2>Statistics</h2>
