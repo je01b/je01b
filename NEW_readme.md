@@ -1,3 +1,8 @@
+<style>
+    border-top: 1px solid blue;
+</style>
+
+
 <h1> Hi 👋, <a href="https://www.jack-b.me" target="_blank">I'm Jack B (je01b)</a> </h1>
 <hr>
 <h3>I'm currently a University student in the UK, studying at <a href="https://www.aston.ac.uk" target="_blank" rel="noreferrer noopener">Aston University</a> </h3>
