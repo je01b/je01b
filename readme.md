@@ -6,7 +6,7 @@
 <details>
 <summary>Degree Modules (Click to expand)</summary>
 
-<p style="margin-left: 25px;">These are the modules that I have studies or will study in <strong>Year 1</strong> of the course:</p> 
+<p style="margin-left: 25px;">These are the modules that I have studied in <strong>Year 1</strong> of the course:</p> 
 <ul>
     <li><a href="https://www.jack-b.me/modules/FOP"> Foundations of Object Oriented Programming </a> (September 2022 - December 2022)</li>
     <li><a href="https://www.jack-b.me/modules/MCP">Mathematics for Computing Professionals </a> (September 2022 - December 2022)</li>
@@ -15,6 +15,16 @@
     <li><a href="https://www.jack-b.me/modules/accounting">Introductory Accounting for Business </a> (January 2023 - April 2023)</li>
     <li><a href="https://www.jack-b.me/modules/IAD">Internet Applications & Database Design </a> (January 2023 - April 2023)</li>
     <li><a href="https://www.jack-b.me/modules/PSA">Professional and Social Aspects of Computing </a> (January 2023 - April 2023)</li>
+</ul>
+<p style="margin-left: 25px;">These are the modules that I have studied or will study in <strong>Year 2</strong> of the course:</p> 
+<ul>
+    <li>Team Project (September 2023 - December 2023)</li>
+    <li>Data Structures & Algorithms in Java (September 2023 - December 2023)</li>
+    <li>Software Engineering (September 2023 - December 2023)</li>
+    <li>Team Project (September 2023 - April 2024)</li>
+    <li>Human-Computer Interaction (January 2024 - April 2024)</li>
+    <li>Information Security (January 2024 - April 2024)</li>
+    <li>Doing e-business (January 2024 - April 2024)</li>
 </ul>
 
 </details>
@@ -26,7 +36,7 @@
     <br><br>
     Email me at: <a href="mailto:jack@jack-b.me">jack@jack-b.me</a>
     <br>
-    Send me a Discord message: <strong>je01b#0754</strong>
+    Send me a Discord message: <strong>je01b</strong>
 </p>
 
 <h2>Programming History</h2>
