@@ -73,4 +73,4 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969p
 
 <h2>Statistics</h2>
 <img src="https://github-readme-stats-je01b.vercel.app/api?username=je01b&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent" alt="je01b's GitHub Stats">
-<img src="https://github-readme-stats-je01b.vercel.app/api/wakatime?username=je01b&layout=compact&theme=transparent&hide=ini,git+config,apache+config,scss,other,text,json" alt="je01b's Wakatime Stats">
+<img src="https://github-readme-stats-je01b.vercel.app/api/wakatime?username=@je01b&layout=compact&theme=transparent&hide=ini,git+config,apache+config,scss,other,text,json" alt="je01b's Wakatime Stats">
